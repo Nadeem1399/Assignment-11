@@ -1,0 +1,59 @@
+
+html{
+	background: url(image.png) no-repeat center center fixed;
+	
+}
+
+h1, h2 {
+    font-family: 'Anta'; color: antiquewhite;
+}
+p {
+    font-family: 'Lato'; color: antiquewhite;
+}
+
+#container{
+	width: 800px;
+    min-height: 400px;
+    padding: 40px;
+	
+
+	position:relative; 
+}
+
+div {
+    margin: auto;
+    border: 1px solid #050505;
+    text-align: center;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
